@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="2b2ba72c:173c4dfe9c9:-8000" />
     <option name="version" value="4.5.2" />
   </component>
